@@ -1,0 +1,81 @@
+id,university_name,country,city,founded_year,student_count,ranking,type,website
+1,University of Texas,USA,Austin,1883,51000,38,Public,utexas.edu
+2,Harvard Univarsity,USA,Cambridge,1636,23000,1,Private,harvard.edu
+3,Stanford University,USA,Stanford,1885,17000,3,Private,stanfor.edu
+4,Oxford Universty,UK,Oxford,1096,24000,4,Public,ox.ac.uk
+5,MIT,USA,Cambridge,1861,11500,1,Private,mit.edu
+6,Cambridge Univercity,UK,Cambridge,1209,24000,2,Public,cam.ac.uk
+7,Yale Universty,USA,New Haven,1701,14000,14,Private,yale.edu
+8,Princeton University,USA,Princeton,1746,8500,7,Private,princton.edu
+9,Caltech,USA,Pasadena,1891,2200,6,Private,caltech.edu
+10,University of Chicago,USA,Chicago,1890,17000,10,Private,uchicago.edu
+11,Columbia University,USA,New York,1754,33000,11,Privat,columbia.edu
+12,University of Pennsylvania,USA,Philadelphia,1740,28000,13,Private,upenn.edu
+13,Cornell Univarcity,USA,Ithaca,1865,24000,16,Private,cornell.edu
+14,University of California Berkeley,USA,Berkeley,1868,45000,27,Public,berkeley.edu
+15,UCLA,USA,Los Angels,1919,46000,20,Public,ucla.edu
+16,Duke University,USA,Durham,1838,17000,12,Private,duke.edu
+17,Northwestern Univesity,USA,Evanston,1851,21000,9,Private,northwestern.edu
+18,Johns Hopkins University,USA,Baltimore,1876,26500,24,Private,jhu.edu
+19,University of Michigan,USA,Ann Arbor,1817,47000,23,Public,umich.edu
+20,NYU,USA,New York,1831,58000,25,Private,nyu.edu
+21,University of Toronto,Canada,Toronto,1827,93000,18,Public,utoronto.ca
+22,McGill University,Canada,Montreal,1821,40000,27,Public,mcgill.ca
+23,University of British Columbia,Canada,Vancouver,1908,66000,34,Public,ubc.ca
+24,ETH Zurich,Switzerland,Zurich,1855,22000,8,Public,ethz.ch
+25,Imperial College London,UK,London,1907,19000,6,Public,imperial.ac.uk
+26,UCL,UK,London,1826,43000,8,Public,ucl.ac.uk
+27,University of Edinburgh,UK,Edinburgh,1583,35000,16,Public,ed.ac.uk
+28,University of Manchester,UK,Manchester,1824,40000,27,Public,manchester.ac.uk
+29,Kings College London,UK,London,1829,33000,35,Public,kcl.ac.uk
+30,LSE,UK,London,1895,12000,49,Public,lse.ac.uk
+31,University of Tokyo,Japan,Tokyo,1877,28000,42,Public,u-tokyo.ac.jp
+32,Kyoto University,Japan,Kyoto,1897,23000,38,Public,kyoto-u.ac.jp
+33,University of Singaproe,Singapore,Singapore,1905,40000,11,Public,nus.edu.sg
+34,Nanyang Technological,Singapore,Singapore,1981,32000,52,Public,ntu.edu.sg
+35,University of Hongkong,Hong Kong,Hong Kong,1911,29000,22,Public,hku.hk
+36,Chinese University Hongkong,Hong Kong,Hong Kong,1963,20000,46,Public,cuhk.edu.hk
+37,University of Sydnae,Australia,Sydney,1850,56000,31,Public,sydney.edu.au
+38,University of Melbourne,Australia,Melbourne,1853,47000,37,Public,unimelb.edu.au
+39,Australian National Univ,Australia,Canberra,1946,35000,29,Public,anu.edu.au
+40,University of Neew South Wales,Australia,Sydney,1949,54000,28,Public,unsw.edu.au
+41,Universidade de Sao Paulo,Brazil,Sao Paulo,1934,65000,71,Public,usp.br
+42,University of Buenos Aires,Argentina,Buenos Aires,1821,52000,68,Public,uba.ar
+43,University of Chille,Chile,Santiago,1842,37000,125,Public,uchile.cl
+44,Universitat de Barcelona,Spain,Barcelona,1450,70000,160,Public,ub.edu
+45,Universidad Autonoma Madrid,Spain,Madrid,1968,33000,189,Public,uam.es
+46,Sorbonne University,France,Paris,1257,56000,45,Public,sorbonne-universite.fr
+47,Ecole Polytechnique,France,Paris,1794,3100,11,Private,polytechnique.edu
+48,University of Amsterdam,Netherlands,Amsterdam,1632,42000,58,Public,uva.nl
+49,University of Utrecht,Netherlands,Utrecht,1636,36000,61,Public,uu.nl
+50,KU Leuven,Belgium,Leuven,1425,54000,51,Public,kuleuven.be
+51,University of Copenhagen,Denmark,Copenhagen,1479,44000,77,Public,ku.dk
+52,University of Oslo,Norway,Oslo,1811,27000,86,Public,uio.no
+53,Karolinska Institute,Sweden,Stockholm,1810,7400,52,Public,ki.se
+54,University of Helsinki,Finland,Helsinki,1640,36000,97,Public,helsinki.fi
+55,University of Iceland,Iceland,Reykjavik,1918,8200,250,Public,hi.is
+56,Trinity College,Ireland,Dublin,1592,19000,81,Public,tcd.ie
+57,University College Dublin,Ireland,Dublin,1854,34000,118,Public,ucd.ie
+58,University of Zurick,Switzerland,Zurich,1833,28000,61,Public,uzh.ch
+59,University of Bern,Switzerland,Bern,1834,19000,89,Public,unibe.ch
+60,University of Vienna,Austria,Vienna,1365,93000,156,Public,univie.ac.at
+61,Charles University Prague,Czech Republic,Prague,1348,48000,211,Public,cuni.cz
+62,Jagiellonian University,Poland,Krakow,1364,40000,300,Public,uj.edu.pl
+63,University of Warshaw,Poland,Warsaw,1816,42000,287,Public,uw.edu.pl
+64,Eötvös Loránd University,Hungary,Budapest,1635,28000,400,Public,elte.hu
+65,University of Belgrade,Serbia,Belgrade,1808,62000,550,Public,ub.ac.rs
+66,National and Kapodistrian,Greece,Athens,1837,94000,380,Public,uoa.gr
+67,Aristotle University,Greece,Thessaloniki,1926,76000,420,Public,auth.gr
+68,Bogazici University,Turkey,Istanbul,1863,15000,190,Public,boun.edu.tr
+69,Middle East Technical Unv,Turkey,Ankara,1956,35000,251,Public,metu.edu.tr
+70,Tel Aviv University,Israel,Tel Aviv,1953,32000,168,Public,tau.ac.il
+71,Hebrew University Jerusalem,Israel,Jerusalem,1918,23000,156,Public,huji.ac.il
+72,Cairo University,Egypt,Cairo,1908,210000,725,Public,cu.edu.eg
+73,American University Cairo,Egypt,Cairo,1919,8500,380,Private,aucegypt.edu
+74,University of Witwatersrand,South Africa,Johannesburg,1922,36000,401,Public,wits.ac.za
+75,University of Capetown,South Africa,Cape Town,1829,27000,198,Public,uct.ac.za
+76,National University Singapore,Singapore,Singapore,1905,37000,8,Public,nus.edu.sg
+77,Hong Kong University Science,Hong Kong,Hong Kong,1991,21000,32,Public,ust.hk
+78,University of New Zeland,New Zealand,Auckland,1883,42000,155,Public,auckland.ac.nz
+79,University of Otago,New Zealand,Dunedin,1869,18000,196,Public,otago.ac.nz
+80,Massey University,New Zealand,Palmerston North,1926,32000,450,Public,massey.ac.nz
