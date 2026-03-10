@@ -16,8 +16,7 @@ services:
         value: /var/data/outputs
       - key: DATA_ANALYZE_ARTIFACTS_DIR
         value: /var/data/data_analyze_artifacts
-
-disks:
-  - name: data-discrepancy-disk
-    mountPath: /var/data
-    sizeGB: 1
+    disk:
+      name: data-discrepancy-disk
+      mountPath: /var/data
+      sizeGB: 1
